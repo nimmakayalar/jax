@@ -10,3 +10,12 @@ ls
 
 git diff --color-words
 git cat-file -t
+git log
+git add -m
+git commit
+git log 
+
+git repo is a graph, commits are nodes
+tree is a snapshot of the content
+
+http://teach.github.com/presentations/git-foundations.html#/
