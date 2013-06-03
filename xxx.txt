@@ -1,0 +1,12 @@
+fkghfjghfds'
+
+jkjkdjdfjd
+jdkfjdkfjdf
+
+dfjhdfdkf
+git add
+
+ls
+
+git diff --color-words
+git cat-file -t
